@@ -10,6 +10,8 @@ Ce dépôt contient les travaux pratiques réalisés dans le cadre du module Ré
 
 [TP3 DEV : Premiers pas Python](https://github.com/stanthblt/tp3-dev-2024)
 
+[TP4 SECU : Exfiltration](https://github.com/stanthblt/tp4-secu-2024)
+
 ## Instructions d'utilisation
 
 Pour cloner ce dépôt, utilisez la commande suivante :
