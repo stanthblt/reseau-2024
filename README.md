@@ -12,6 +12,8 @@ Ce dépôt contient les travaux pratiques réalisés dans le cadre du module Ré
 
 [TP4 SECU : Exfiltration](https://github.com/stanthblt/tp4-secu-2024)
 
+[TP5 SECU : Exploit, pwn, fix](https://github.com/stanthblt/tp5-secu-2024)
+
 ## Instructions d'utilisation
 
 Pour cloner ce dépôt, utilisez la commande suivante :
