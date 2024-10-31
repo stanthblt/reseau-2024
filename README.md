@@ -14,6 +14,8 @@ Ce dépôt contient les travaux pratiques réalisés dans le cadre du module Ré
 
 [TP5 SECU : Exploit, pwn, fix](https://github.com/stanthblt/tp5-secu-2024)
 
+[TP6 : Un peu de root-me](https://github.com/stanthblt/tp5-secu-2024)
+
 ## Instructions d'utilisation
 
 Pour cloner ce dépôt, utilisez la commande suivante :
