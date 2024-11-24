@@ -16,6 +16,8 @@ Ce dépôt contient les travaux pratiques réalisés dans le cadre du module Ré
 
 [TP6 : Un peu de root-me](https://github.com/stanthblt/tp6-secu-2024)
 
+[TP7 SECU : Accès réseau sécurisé](https://github.com/stanthblt/tp7-secu-2024)
+
 ## Instructions d'utilisation
 
 Pour cloner ce dépôt, utilisez la commande suivante :
